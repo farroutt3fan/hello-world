@@ -1,2 +1,2 @@
 # hello-world
-A workshop personal projects and experiments
+A workshop for personal projects and experiments
